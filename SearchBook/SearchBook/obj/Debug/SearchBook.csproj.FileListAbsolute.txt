@@ -1,0 +1,36 @@
+C:\Users\Eduardo Miguel\source\repos\SearchBook\SearchBook\bin\Debug\SearchBook.exe.config
+C:\Users\Eduardo Miguel\source\repos\SearchBook\SearchBook\bin\Debug\SearchBook.exe
+C:\Users\Eduardo Miguel\source\repos\SearchBook\SearchBook\bin\Debug\SearchBook.pdb
+C:\Users\Eduardo Miguel\source\repos\SearchBook\SearchBook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eduardo Miguel\source\repos\SearchBook\SearchBook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eduardo Miguel\source\repos\SearchBook\SearchBook\obj\Debug\SearchBook.csprojAssemblyReference.cache
+C:\Users\Eduardo Miguel\source\repos\SearchBook\SearchBook\obj\Debug\MainWindow.g.cs
+C:\Users\Eduardo Miguel\source\repos\SearchBook\SearchBook\obj\Debug\App.g.cs
+C:\Users\Eduardo Miguel\source\repos\SearchBook\SearchBook\obj\Debug\SearchBook_MarkupCompile.cache
+C:\Users\Eduardo Miguel\source\repos\SearchBook\SearchBook\obj\Debug\SearchBook_MarkupCompile.lref
+C:\Users\Eduardo Miguel\source\repos\SearchBook\SearchBook\obj\Debug\MainWindow.baml
+C:\Users\Eduardo Miguel\source\repos\SearchBook\SearchBook\obj\Debug\SearchBook.g.resources
+C:\Users\Eduardo Miguel\source\repos\SearchBook\SearchBook\obj\Debug\SearchBook.Properties.Resources.resources
+C:\Users\Eduardo Miguel\source\repos\SearchBook\SearchBook\obj\Debug\SearchBook.csproj.GenerateResource.cache
+C:\Users\Eduardo Miguel\source\repos\SearchBook\SearchBook\obj\Debug\SearchBook.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Miguel\source\repos\SearchBook\SearchBook\obj\Debug\SearchBook.csproj.CopyComplete
+C:\Users\Eduardo Miguel\source\repos\SearchBook\SearchBook\obj\Debug\SearchBook.exe
+C:\Users\Eduardo Miguel\source\repos\SearchBook\SearchBook\obj\Debug\SearchBook.pdb
+D:\DEV\BackendTest\SearchBook\SearchBook\obj\Debug\SearchBook.csprojAssemblyReference.cache
+D:\DEV\BackendTest\SearchBook\SearchBook\obj\Debug\MainWindow.g.cs
+D:\DEV\BackendTest\SearchBook\SearchBook\obj\Debug\App.g.cs
+D:\DEV\BackendTest\SearchBook\SearchBook\obj\Debug\SearchBook_MarkupCompile.cache
+D:\DEV\BackendTest\SearchBook\SearchBook\obj\Debug\SearchBook_MarkupCompile.lref
+D:\DEV\BackendTest\SearchBook\SearchBook\obj\Debug\SearchBook.exe
+D:\DEV\BackendTest\SearchBook\SearchBook\obj\Debug\SearchBook.pdb
+D:\DEV\BackendTest\SearchBook\SearchBook\bin\Debug\SearchBook.exe.config
+D:\DEV\BackendTest\SearchBook\SearchBook\bin\Debug\SearchBook.exe
+D:\DEV\BackendTest\SearchBook\SearchBook\bin\Debug\SearchBook.pdb
+D:\DEV\BackendTest\SearchBook\SearchBook\bin\Debug\Newtonsoft.Json.dll
+D:\DEV\BackendTest\SearchBook\SearchBook\bin\Debug\Newtonsoft.Json.xml
+D:\DEV\BackendTest\SearchBook\SearchBook\obj\Debug\MainWindow.baml
+D:\DEV\BackendTest\SearchBook\SearchBook\obj\Debug\SearchBook.g.resources
+D:\DEV\BackendTest\SearchBook\SearchBook\obj\Debug\SearchBook.Properties.Resources.resources
+D:\DEV\BackendTest\SearchBook\SearchBook\obj\Debug\SearchBook.csproj.GenerateResource.cache
+D:\DEV\BackendTest\SearchBook\SearchBook\obj\Debug\SearchBook.csproj.CoreCompileInputs.cache
+D:\DEV\BackendTest\SearchBook\SearchBook\obj\Debug\SearchBook.csproj.CopyComplete
